@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/week_02/week_02.iml" filepath="$PROJECT_DIR$/week_02/week_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week_03_searching/week_03_searching.iml" filepath="$PROJECT_DIR$/week_03_searching/week_03_searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/week_04_sorting/week_04_sorting.iml" filepath="$PROJECT_DIR$/week_04_sorting/week_04_sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week_05_recursion/week_05_recursion.iml" filepath="$PROJECT_DIR$/week_05_recursion/week_05_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week_06_linked_list/week_06_linked_list.iml" filepath="$PROJECT_DIR$/week_06_linked_list/week_06_linked_list.iml" />
     </modules>
   </component>
 </project>

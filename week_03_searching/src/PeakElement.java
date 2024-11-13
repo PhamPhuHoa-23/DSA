@@ -21,16 +21,6 @@ public class PeakElement {
             else {
                 start = mid + 1;
             }
-//            if (0 < mid && mid < nums.length - 1 && nums[mid] > nums[mid - 1] && nums[mid] > nums[mid + 1]) {
-//                return mid;
-//            }
-//
-//            if (mid < end && nums[start] < nums[mid] && nums[mid] < nums[mid + 1]) {
-//                start = mid + 1;
-//            }
-//            else if (mid < end && nums[mid] > nums[end] && nums[mid] > nums[mid + 1]) {
-//                end = mid - 1;
-//            }
         }
         return start;
     }
